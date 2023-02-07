@@ -1,0 +1,28 @@
+C:\Users\HAIER\Desktop\PROJECT_3\PROJECT_3\bin\Debug\PROJECT_3.exe.config
+C:\Users\HAIER\Desktop\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.exe
+C:\Users\HAIER\Desktop\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.pdb
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\bin\Debug\PROJECT_3.exe.config
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.exe
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.pdb
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\bin\Debug\PROJECT_3.exe
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\bin\Debug\PROJECT_3.pdb
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.csprojResolveAssemblyReference.cache
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.Customers_FORM.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.Other_form.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.Items_FORM.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.vendor_form.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.purchase_report_form.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.sales_report_form.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.pharmacist_form.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.update_item.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.delete_item.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.ADMIN_LOGIN.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.pharmacist_login.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.add_item_form.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.Billing_form.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.Properties.Resources.resources
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.csproj.GenerateResource.Cache
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\bin\Debug\PROJECT_3.exe.manifest
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\bin\Debug\PROJECT_3.application
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.exe.manifest
+C:\Users\pcs\Downloads\PROJECT_3 (1)\PROJECT_3\PROJECT_3\obj\Debug\PROJECT_3.application
